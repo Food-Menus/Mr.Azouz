@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&family=Noto+Kufi+Arabic:wght@100..900&display=swap');
 
-
 :root {
   --primary-color: #442508;
   --secondary-color: #ffc135;
@@ -79,7 +78,7 @@ body {
 }
 
 .header {
-  background-image: url("assets/header-bg.png");
+  background-image: url("assets/header-bg.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -125,7 +124,7 @@ nav {
   top: 60px;
   left: 0;
   width: 100%;
-  padding: 2rem;
+  padding: 0.5rem;
   list-style: none;
   display: flex;
   align-items: center;
@@ -379,7 +378,7 @@ nav {
 
 
 .footer {
-  background-image: url("assets/footer-bg.png");
+  background-image: url("assets/footer-bg.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -752,15 +751,15 @@ nav {
 }
 
 .journey__card:nth-child(1) {
-  background-image: url("assets/banner-1.png");
+  background-image: url("assets/banner-1.jpg");
 }
 
 .journey__card:nth-child(2) {
-  background-image: url("assets/banner-1.png");
+  background-image: url("assets/banner-1.jpg");
 }
 
 .journey__card:nth-child(3) {
-  background-image: url("assets/banner-1.png");
+  background-image: url("assets/banner-1.jpg");
 }
 .journey__card__bg h4 {
   font-size: 2.4rem;
