@@ -810,3 +810,48 @@ nav {
 
 
 
+
+
+
+
+.portfolio__container {
+  display: grid;
+  gap: 2rem 0;
+}
+
+.portfolio__content {
+  padding-inline: 1rem;
+}
+
+.portfolio__content .section__header {
+  margin-bottom: 1rem;
+}
+
+.portfolio__content .section__description {
+  margin-bottom: 2rem;
+}
+
+.portfolio__image__wrapper {
+  overflow-x: hidden;
+}
+
+.portfolio__image {
+  width: max-content;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  animation: scroll 45s linear infinite;
+}
+
+.portfolio__image img {
+  max-width: 300px;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.05);
+}
+
+@keyframes scroll {
+  to {
+    transform: translateX(calc(-200% - 0.5rem));
+  }
+}
+
