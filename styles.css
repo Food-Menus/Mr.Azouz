@@ -106,7 +106,7 @@ nav {
 }
 
 .nav__logo img {
-  max-width: 250px;
+  max-width: 200px;
 }
 
 .nav__logo-dark {
@@ -114,7 +114,7 @@ nav {
 }
 
 .nav__menu__btn {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   color: var(--white);
   cursor: pointer;
 }
@@ -231,7 +231,7 @@ nav {
   max-width: fit-content;
   margin-inline: auto;
   margin-bottom: 1rem;
-  padding: 0.5rem 2rem;
+  padding: 0.5rem 1rem;
   font-size: 1.5rem;
   font-weight: 400;
   font-family: "Noto Kufi Arabic", sans-serif;
