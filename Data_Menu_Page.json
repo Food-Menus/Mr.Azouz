@@ -15,7 +15,7 @@
 
 
     "pizza_type_1" : "بيتزا فراخ",
-    "pizza_prise_1" : "163",
+    "pizza_prise_1" : "165",
     "pizza_type_2" : "بيتزا مارجريتا",
     "pizza_prise_2" : "115",
     "pizza_type_3" : "بيتزا خضروات",
@@ -71,7 +71,7 @@
     "meal_type_9" : "وجبة كبدة",
     "meal_prise_9" : "145",
 
-    "notes_meal" : " جميع الوجبات يقدم معاها ( ارز أو مكرونة + بطاطس سوريه + سلطة + عيش ) ",
+    "notes_meal" : " جميع الوجبات يقدم معاها ( ارز أو مكرونة + بطاطس بوريه + سلطة + عيش ) ",
 
     "Additions_meal_title" : "أضافات الوجبات",
     "Additions_meal_1" : "طبق بطاطس",
@@ -104,7 +104,7 @@
     "syrian_prise_5" : "74",
     "syrian_sandwich_6" : "شاورما لحمه سوري",
     "syrian_prise_6" : "77",
-    "syrian_sandwich_7" : "شاورما فراخ",
+    "syrian_sandwich_7" : "شاورما فراخ سوري",
     "syrian_prise_7" : "62",
 
 
